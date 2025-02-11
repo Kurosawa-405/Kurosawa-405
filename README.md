@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kurosawa-405
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ML and big data projects but also learning to corperate with other feilds of engineering
+- 🌱 I’m currently learning  Python
 -
 
 <!---
