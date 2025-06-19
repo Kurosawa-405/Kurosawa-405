@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kurosawa-405
 - 👀 I’m interested in ML and big data projects but also learning to corperate with other feilds of engineering
 - 🌱 I’m currently learning  Python
+- This file contains some projects and excercises from codewithHarry
 -
 
 <!---
