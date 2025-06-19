@@ -1,0 +1,12 @@
+x=10    
+def my_function():
+    y=5
+    global x
+    x=5
+    x=x-1
+    print(f" the local of x is{x}")
+    y=x+y
+    return y
+result=my_function()
+print(x)
+print(result)

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scraping Tool Link</title>
+</head>
+<body>
+    <h1>Welcome to the Web Scraping Tool</h1>
+    <p>Click the link below to access the tool:</p>
+    <a href="http://127.0.0.1:5000" target="_blank" style="font-size: 18px; color: blue; text-decoration: underline;">
+        Open Web Scraping Tool
+    </a>
+</body>
+</html>

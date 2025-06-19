@@ -1,0 +1,9 @@
+class person():
+    name="harry"
+    occupation="mentor"
+    def info(self):
+        print(f"{self.name} is a{self.occupation}...")
+        a=person()
+        a.name="vansh"
+        a.occupation="student"
+        a.info()

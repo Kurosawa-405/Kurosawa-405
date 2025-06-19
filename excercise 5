@@ -1,0 +1,46 @@
+option=int(input("enter the number"))
+i=0
+for(i<=option):
+    import random
+    def result(user_choice):
+        choices = ["snake", "water", "gun"]
+        comp_choice = random.choice(choices)
+        print(f"Computer choice: {comp_choice}")
+    
+    if user_choice == comp_choice:
+        return 0
+    elif (user_choice == "water" and comp_choice == "snake") or \
+         (user_choice == "snake" and comp_choice == "gun") or \
+         (user_choice == "gun" and comp_choice == "water"):
+        return -1
+    else:
+        return 1
+
+    def game():
+        choices = ["snake", "water", "gun"]
+        while True:
+            print(f"Choices: {choices}")
+            user_choice = input("Enter your choice (snake, water, gun): ").lower()
+        
+            if user_choice not in choices:
+                print("Invalid choice. Please select from snake, water, or gun.")
+                continue
+
+                result_value = result(user_choice)
+        
+            if result_value == 1:
+                print("You win!")
+            elif result_value == -1:
+                print("You lose!")
+            else:
+                print("It's a tie!")
+        
+# Start the game
+    game()
+    
+ 
+
+        
+        
+
+        

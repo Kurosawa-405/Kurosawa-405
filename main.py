@@ -1,0 +1,3 @@
+import vansh
+
+vansh.welcome()

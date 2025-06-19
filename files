@@ -1,0 +1,6 @@
+f=open('myfile2.txt','a')
+text=f.write('hello my name is reyansh and i am 8 years old')
+print(text)
+with open('myfile.txt','a'):
+    f.write("hey i am inside ")
+f.close()

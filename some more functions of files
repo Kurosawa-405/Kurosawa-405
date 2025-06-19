@@ -1,0 +1,14 @@
+f   =open('myfile.txt','r')
+i=0
+while true :
+    i=i+1
+    line=f.readline()
+    m1=f.split(",")[0]
+    m2=f.split(",")[1]
+    m3=f.split(",")[2]
+    print (f"marks of student {i} is {m1}")
+    print (f"marks of student {i} is {m2}")
+    print (f"marks of student {i} is {m3}")
+    if not line:
+    break
+    print(line)
