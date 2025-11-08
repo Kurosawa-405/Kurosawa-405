@@ -4,7 +4,7 @@
 - 🎓 Aspiring developer exploring **Machine Learning** and **Big Data** applications
 - 🤝 Passionate about collaborating across diverse engineering fields
 - 🐍 Currently learning **Python** and building foundational projects
-- 📚 Working through exercises and mini-projects from [CodeWithHarry](https://www.codewithharry.com/)
+
 
 ## 🛠️ Projects & Learning
 This repository showcases:
